@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.container-fluid{
+	display: flex;
+	flex-direction: column;
+}
