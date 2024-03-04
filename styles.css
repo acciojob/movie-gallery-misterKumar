@@ -1,3 +1,6 @@
-.space{
-	width:100px;
-}
+img {
+    width: 100px;
+    height: 100px;
+    display: block;
+    max-width: 100%;
+  }
